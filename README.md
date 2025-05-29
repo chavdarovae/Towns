@@ -1,2 +1,2 @@
 # Towns for SoftUni
-Code for the Git and GitHub Exercise
+Code for the Git and GitHub Exercise Test
